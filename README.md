@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **React-Native,Django-Rest-Framework,React**
 
 - 💬 Ask me about **html,css,javascript,tailwindcss,react,sql**
+- 🌐 My Portfolio: [Click here to visit](https://my-portfolio-self-eight-22.vercel.app/)
 
 - 📫 How to reach me **dawittechguru@gmail.com**
 
