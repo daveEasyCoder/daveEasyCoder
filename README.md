@@ -24,6 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daveeasycoder&show_icons=true&locale=en" alt="daveeasycoder" /></p>
 
+![](https://leetcard.jacoblin.cool/dev_cod?ext=heatmap)
 
 
 
